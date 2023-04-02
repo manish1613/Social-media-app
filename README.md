@@ -1,4 +1,4 @@
-# WcCube Media
+# WsCube Media
 
 ![Wscube Media](https://i.ibb.co/c8v6v6t/Screenshot-2023-04-02-152932.png)
 
